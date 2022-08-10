@@ -31,8 +31,8 @@ ALLOWED_HOSTS = ['*']
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp-relay.sendinblue.com'
-EMAIL_HOST_USER = 'indianpremierleague202208@gmail.com'
-EMAIL_HOST_PASSWORD = 'OjKyNY8zMtRrEUH5'
+EMAIL_HOST_USER = 'nkamthan@unomaha.edu'
+EMAIL_HOST_PASSWORD = 'AG5SWtMcnUpyIwYr'
 EMAIL_PORT = 587
 
 # 'Unoapp@1234'
